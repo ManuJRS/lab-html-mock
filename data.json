@@ -1,0 +1,50 @@
+[
+    {
+        "image": "https://laboratorioladco.com.mx/wp-content/uploads/2026/03/Paquetes-Prenatales-3.png",
+        "imageAlt": "Check-up preventivo familiar",
+        "badge": "Paquete familiar",
+        "title": "Check-up Integral 360°",
+        "description": "Evaluación completa de 45 parámetros para toda la familia. La prevención es el mejor regalo.",
+        "priceLabel": "Precio especial",
+        "price": "$1,499.00",
+        "items": [
+            "45 parámetros clínicos",
+            "Resultados en 24–48 h",
+            "Ideal para toda la familia"
+        ],
+        "ctaLabel": "Solicitar ahora",
+        "ctaHref": "https://wa.me/529991916081?text=Hola%2C%20quiero%20informaci%C3%B3n%20sobre%20Check-up%20Integral%20360"
+    },
+    {
+        "image": "https://laboratorioladco.com.mx/wp-content/uploads/2026/03/Perfil-Duo.png",
+        "imageAlt": "Promoción Perfil Duo",
+        "badge": "Promoción",
+        "title": "Perfil Duo",
+        "description": "Combina estudios clave para una visión integral de tu salud en un solo paquete.",
+        "priceLabel": "Desde",
+        "price": "$899.00",
+        "items": [
+            "Química sanguínea y hemograma",
+            "Perfil lipídico básico",
+            "Interpretación orientativa"
+        ],
+        "ctaLabel": "Más información",
+        "ctaHref": "https://wa.me/529991916081?text=Perfil%20Duo"
+    },
+    {
+        "image": "https://laboratorioladco.com.mx/wp-content/uploads/2026/03/Paquetes-Prenatales-1.png",
+        "imageAlt": "Paquetes prenatales",
+        "badge": "Maternidad",
+        "title": "Paquetes prenatales",
+        "description": "Seguimiento pensado para el bienestar de la madre y el desarrollo del bebé.",
+        "priceLabel": "Consultar",
+        "price": "$899.00",
+        "items": [
+            "Perfiles por trimestre",
+            "Toma de muestra con cita",
+            "Resultados en línea"
+        ],
+        "ctaLabel": "Agendar valoración",
+        "ctaHref": "https://wa.me/529991916081?text=Paquetes%20prenatales"
+    }
+]
